@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+<!-- Banner Image w-->
 
 <p align="center">
   <a href="https://expo.dev/">
